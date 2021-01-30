@@ -1,0 +1,7 @@
+
+Rsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+]squid:UselessImportCheck"6Remove this unused import 'sun.java2d.loops.DrawRect'.(Ç”‹²úÿÿÿÿ
+Wsquid:UselessImportCheck"5Remove this unused import 'javafx.scene.paint.Color'.(Ïî£à
+Osquid:S1191"5Use classes from the Java API instead of Sun classes.(Ç”‹²úÿÿÿÿ
+`squid:UselessImportCheck"9Remove this unused import 'javafx.scene.shape.Rectangle'.(ÖÉ­Œþÿÿÿÿ
+_squid:UselessImportCheck"8Remove this unused import 'javafx.scene.control.Button'.(Ë Í‹øÿÿÿÿ
